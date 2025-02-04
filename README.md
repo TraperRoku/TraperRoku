@@ -35,6 +35,11 @@
   </li>
 
   <li>
+    <b>🖥 Programmer Calculator</b>: A Windows Programmer Calculator Clone ( Java GUI App)
+    <br>🔗 <a href="https://github.com/TraperRoku/ProgrammerCalculator/tree/main">View Project</a>
+  </li>
+
+  <li>
     <b>🔐 Login Management App</b>: User login system with MySQL and GUI 
     <br>🔗 <a href="https://github.com/TraperRoku/JavaGUI/tree/main">View Project</a>
   </li>
