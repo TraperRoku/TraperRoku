@@ -12,6 +12,8 @@
     
 - <b>💡 LeetCode</b>
   - [Practice problems on LeetCode](https://github.com/TraperRoku/LeetCode)
+- <b> University-Exercises </b>
+-
 
 <h2> 🤳 Connect with me:</h2>
 
