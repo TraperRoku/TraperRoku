@@ -30,7 +30,7 @@
 <h2>👨‍💻 Java Development Projects</h2>
 <ul>
   <li>
-    <b>📝 ToDo CRUD App</b>: Manage tasks efficiently (Spring Boot + Java + Docker + MySQL)
+    <b>📝 TODO CRUD App</b>: Manage tasks efficiently (Spring Boot + Java + Docker + MySQL)
     <br>🔗 <a href="https://github.com/TraperRoku/todoApp/tree/main">View Project</a>
   </li>
 
