@@ -10,13 +10,13 @@
 <ul>
   <li>
     <b>🍴 Recipe Sharing Platform</b>: A fullstack app for chefs to share recipes, complete with image uploads and JWT authentication 
-    <br><i>Technologies: Spring Boot, React</i>
+    <br><i>Technologies: Spring Boot, React, MySQL</i>
     <br>🔗 <a href="https://github.com/TraperRoku/Backend-Projects/tree/main/Recipe-Sharing-Platform">View Project</a>
   </li>
 
   <li>
     <b>🏋️‍♀️ Fitness Workout Tracker</b>: Workout management system to create workout plans, track progress, and comment on exercises 
-    <br><i>Technologies: Spring Boot, React</i>
+    <br><i>Technologies: Spring Boot, React, MySQL</i>
     <br>🔗 <a href="https://github.com/TraperRoku/Backend-Projects/tree/main/FitnessTracker">View Project</a>
   </li>
 
