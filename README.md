@@ -45,11 +45,6 @@
   </li>
 
   <li>
-    <b>📚 FullStack CRUD App</b>: Fullstack CRUD app with Spring Boot, React, and Docker
-    <br>🔗 <a href="https://github.com/TraperRoku/FullstackLibraryApp">View Project</a>
-  </li>
-
-  <li>
     <b>💡 LeetCode Solutions</b>: Practice algorithms and data structures
     <br>🔗 <a href="https://github.com/TraperRoku/LeetCode">View Repository</a>
   </li>
