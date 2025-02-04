@@ -54,7 +54,7 @@
     <ul>
       <li><a href="https://github.com/TraperRoku/ZUT-TD">Data Transmission</a></li>
       <li><a href="https://github.com/TraperRoku/Data-Processing-and-Analysis">Data Processing and Analysis</a></li>
-      <li><a href="https://github.com/TraperRoku/Algorithms">Algorithms</a></li>
+      <li><a href="https://github.com/TraperRoku/Algorithms">Algorithms in C++</a></li>
       <li><a href="https://github.com/TraperRoku/Other-Small-University-Exercises">Other Exercises</a></li>
     </ul>
   </li>
