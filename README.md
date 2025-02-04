@@ -13,7 +13,10 @@
 - <b>💡 LeetCode</b>
   - [Practice problems on LeetCode](https://github.com/TraperRoku/LeetCode)
 - <b> University-Exercises </b>
--
+  - [Data transmission](https://github.com/TraperRoku/ZUT-TD)
+  - [Data-Processing-and-Analysis](https://github.com/TraperRoku/Data-Processing-and-Analysis)
+  - [Algorithms](https://github.com/TraperRoku/Algorithms)
+  - [Other-Small-University-Exercises](https://github.com/TraperRoku/Other-Small-University-Exercises)
 
 <h2> 🤳 Connect with me:</h2>
 
