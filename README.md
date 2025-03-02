@@ -10,14 +10,19 @@
 <ul>
   <li>
     <b>🍴 Recipe Sharing Platform</b>: A fullstack app for chefs to share recipes, complete with image uploads and JWT authentication 
-    <br><i>Technologies: Spring Boot, React, MySQL</i>
+    <br><i>Technologies: Spring Boot, React, MySQL, JWT</i>
     <br>🔗 <a href="https://github.com/TraperRoku/Backend-Projects/tree/main/Recipe-Sharing-Platform">View Project</a>
   </li>
 
   <li>
     <b>🏋️‍♀️ Fitness Workout Tracker</b>: Workout management system to create workout plans, track progress, and comment on exercises 
-    <br><i>Technologies: Spring Boot, React, MySQL</i>
+    <br><i>Technologies: Spring Boot, React, MySQL, JWT</i>
     <br>🔗 <a href="https://github.com/TraperRoku/Backend-Projects/tree/main/FitnessTracker">View Project</a>
+  </li>
+  <li>
+    <b>🎬 Cinema Reservation System</b>: A full-stack movie booking application that allows users to browse movies, select showtimes, reserve seats, make payments via Stripe, and generate digital tickets. 
+    <br><i>Technologies: Stripe API, Spring Boot, React, MySQL, JWT</i>
+    <br>🔗 <a href="https://github.com/TraperRoku/Backend-Projects/tree/main/MovieReservationSystem">View Project</a>
   </li>
 
   <li>
