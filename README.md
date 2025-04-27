@@ -65,6 +65,29 @@
   </li>
 </ul>
 
+<h2>🏠 Commercial & Ongoing Projects</h2>
+<ul>
+  <li>
+    <b>🏠 Bezpieczny Dach – Commercial Website Development</b>: Developed and deployed a commercial website for Bezpieczny Dach, a roofing company, managing the entire process from design to production. The website features a responsive and mobile-friendly design. To make it easy for customers to get in touch, I added a contact form with Formspree integration. The site was built using React.js, and I used Vercel for fast and reliable hosting.
+    <br>🔗 <a href="https://github.com/TraperRoku/RoofFrontendSite">GitHub Repository</a> | <a href="https://bezpiecznydach.pl">Live Website</a>
+  </li>
+
+  <li>
+    <b>🍴 Restaurant Review Platform (API) with Automatic NLP Analysis (Ongoing)</b>: Building a backend API for a restaurant review platform that uses Natural Language Processing (NLP) to analyze and categorize user reviews. The system doesn't just detect overall sentiment — it breaks down each review into specific categories such as food, ambience, and service, assigning scores like food: 4/5, ambience: 2/5, etc. The backend is built with Spring Boot, while the NLP processing is handled in Python, which communicates with the Java backend to provide categorized sentiment data. A live leaderboard of restaurants, powered by Redis, updates in real-time based on the sentiment scores.
+    <br><i>Technologies: Spring Boot, Python NLP, Redis, MongoDB, React</i>
+    <br>🔗 <a href="https://github.com/TraperRoku/RestaurantReviewPlatform">View Project</a>
+  </li>
+</ul>
+
+---
+
+<h2>Certifications</h2>
+<ul>
+  <li><a href="https://github.com/TraperRoku/Certifications">Mikrotik</a></li>
+  <li><a href="https://github.com/TraperRoku/Certifications">Security Academy – Windows System Security</a></li>
+  <li><a href="https://github.com/TraperRoku/Certifications">Security Academy – Cybersecurity Training</a></li>
+</ul>
+
 ---
 
 <h2>🤳 Connect with Me</h2>
